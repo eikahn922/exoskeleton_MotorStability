@@ -43,7 +43,7 @@ By the time the subjective evaluation and final CAD were complete, the replaceme
 - **Start with the final system view:** [Final Motor Support in Full Exoskeleton](CAD/02%20-%20Final%20Implementation/02%20-%20Full%20Exoskeleton%20Context/README.md)
 - **Review the final local feature:** [Focused Motor Support](CAD/02%20-%20Final%20Implementation/01%20-%20Focused%20Motor%20Support/README.md)
 - **See how strap placement was evaluated:** [Testing](CAD/01%20-%20Testing/README.md)
-- **Audit the source and deduplication decisions:** [CAD Source Manifest](CAD/SOURCE_MANIFEST.md)
+- **Audit the source packages and filenames:** [CAD Source Manifest](CAD/SOURCE_MANIFEST.md)
 
 The primary SolidWorks file is:
 
@@ -56,12 +56,10 @@ The primary SolidWorks file is:
 └── CAD/
     ├── 01 - Testing/
     │   ├── 01 - Focused Strap Placement Test/
-    │   ├── 02 - Full Exoskeleton Test Context/
-    │   └── Shared Test Component/
-    ├── 02 - Final Implementation/
-    │   ├── 01 - Focused Motor Support/
-    │   └── 02 - Full Exoskeleton Context/
-    └── 03 - Shared Exoskeleton Components/
+    │   └── 02 - Full Exoskeleton Test Context/
+    └── 02 - Final Implementation/
+        ├── 01 - Focused Motor Support/
+        └── 02 - Full Exoskeleton Context/
 ```
 
 ## Validation and safety scope
