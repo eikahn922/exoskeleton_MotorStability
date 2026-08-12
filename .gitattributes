@@ -1,0 +1,5 @@
+*.SLDASM binary
+*.SLDPRT binary
+*.step binary
+*.STEP binary
+*.zip binary
