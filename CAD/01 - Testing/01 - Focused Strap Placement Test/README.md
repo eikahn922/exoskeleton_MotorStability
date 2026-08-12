@@ -8,6 +8,6 @@ This assembly isolates the pelvis-bar/motor-support area to make strap attachmen
 
 ## Components
 
-`Assembly Components/` contains the early test-specific attachment geometry and early strap model. The unchanged `hipBar_Tester.SLDPRT` is stored once in `../Shared Test Component/` to avoid an exact duplicate.
+`Assembly Components/` contains every part supplied with the focused test package: the early attachment geometry, early strap model, and test hip bar.
 
 This is an early test state. Use the final implementation for the selected geometry.
